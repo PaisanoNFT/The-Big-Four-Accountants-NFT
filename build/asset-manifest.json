@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/The-Big-Four-Accountants-NFT/static/css/main.efd023ea.chunk.css",
+    "main.js": "/The-Big-Four-Accountants-NFT/static/js/main.2845f7e6.chunk.js",
+    "main.js.map": "/The-Big-Four-Accountants-NFT/static/js/main.2845f7e6.chunk.js.map",
+    "runtime-main.js": "/The-Big-Four-Accountants-NFT/static/js/runtime-main.d267a315.js",
+    "runtime-main.js.map": "/The-Big-Four-Accountants-NFT/static/js/runtime-main.d267a315.js.map",
+    "static/js/2.045be9b3.chunk.js": "/The-Big-Four-Accountants-NFT/static/js/2.045be9b3.chunk.js",
+    "static/js/2.045be9b3.chunk.js.map": "/The-Big-Four-Accountants-NFT/static/js/2.045be9b3.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/The-Big-Four-Accountants-NFT/static/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/The-Big-Four-Accountants-NFT/static/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/The-Big-Four-Accountants-NFT/index.html",
+    "static/css/main.efd023ea.chunk.css.map": "/The-Big-Four-Accountants-NFT/static/css/main.efd023ea.chunk.css.map",
+    "static/js/2.045be9b3.chunk.js.LICENSE.txt": "/The-Big-Four-Accountants-NFT/static/js/2.045be9b3.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/The-Big-Four-Accountants-NFT/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d267a315.js",
+    "static/js/2.045be9b3.chunk.js",
+    "static/css/main.efd023ea.chunk.css",
+    "static/js/main.2845f7e6.chunk.js"
+  ]
+}
